@@ -1,2 +1,6 @@
 # weixin
-微信公众号联系代码
+微信公众号开发代码
+
+
+（‘=’）哈喽！
+By Just、butterball
